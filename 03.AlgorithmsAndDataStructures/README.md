@@ -3,5 +3,12 @@ section. Where we find [lectures from Steve Skiena](https://www.youtube.com/watc
 
 ### 1. CSE 373 -- Lecture 1, Fall 2020
 
-- What is an algorithm.
-- Example of an algorithm problem.
+- What is an algorithm? An algorithm is a procedure to accomplish a specific task.\
+  An algorithm is the idea behind any reasonable computer program.
+- There are three desirable properties for a good algorithm. We seek algorithms that are **correct** and **efficient**, while being **easy to implement**.
+
+- 1.1. Robot Tour Optimization (p. 5)
+
+  - Take-Home Lesson: There is a fundamental difference between algorithms, which always produce a correct result,and heuristics, which may usually do a good job but without providing any guarantee.
+
+- 1.2 Selecting the Right Jobs (p. 9)
